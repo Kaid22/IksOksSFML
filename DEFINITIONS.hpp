@@ -17,8 +17,8 @@
 
 #define X_PIECE_FILEPATH "Resources/res/X.png"
 #define O_PIECE_FILEPATH "Resources/res/O.png"
-#define X_WINNGIG_FILEPATH "Resources/res/X Win.png"
-#define O_WINNGIG_FILEPATH "Resources/res/O Win.png"
+#define X_WINNING_PIECE_FILEPATH "Resources/res/X Win.png"
+#define O_WINNING_PIECE_FILEPATH "Resources/res/O Win.png"
 
 #define X_PIECE 8
 #define O_PIECE 0
@@ -43,3 +43,4 @@
 
 #define GRID_SPRITE_FILEPATH "Resources/res/Grid.png"
 
+#define TIME_BEFORE_SHOWING_GAME_OVER 3
